@@ -1,0 +1,12 @@
+1.	Selenium Jars - > https://www.selenium.dev/downloads/
+	Download selenium jars and selenium grid jars from here. Driver softwares
+	for different browsers are also available here.
+	
+2.  TestNG Jars ->  https://mvnrepository.com/artifact/org.testng/testng/
+	I have downloaded 7.3 version from here. 
+	
+3.  FileUtil Jars -> https://commons.apache.org/proper/commons-io/download_io.cgi
+	I have Downloaded commons-io-2.7-bin.zip file.	
+
+4.  Selenium Grid Jars - >	https://www.selenium.dev/downloads/
+	I have download Latest stable version 3.141.59 jars.
